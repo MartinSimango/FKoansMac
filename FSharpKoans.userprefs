@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{50D507B2-AFAA-4923-B283-4995F8F897CA}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AboutMatching.fs">
+    <Files>
+      <File FileName="AboutTesting.fs" Line="9" Column="12" />
+      <File FileName="Helpers.fs" Line="38" Column="12" />
+      <File FileName="AboutBinding.fs" Line="142" Column="38" />
+      <File FileName="AboutMatching.fs" Line="17" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="FSharpKoans" expanded="True">
+            <Node name="FSharpKoans" expanded="True" selected="True">
+              <Node name="FSharpKoans" expanded="True">
+                <Node name="03: Match expressions" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FSharpKoans PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
